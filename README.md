@@ -22,7 +22,7 @@
 ## 📫 Contacto 
 - 📧 Email: [sanzadrian@hotmail.es](mailto:sanzadrian@hotmail.es)
 - 🌐 Sitio web/portafolio: [https://adrianssanz.github.io/portfolio/](https://adrianssanz.github.io/portfolio/)
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/sanzadrian)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanzadrian/)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=tokyonight&layout=compact" alt="adrianssanz :: Top Langs" /></p>
 
