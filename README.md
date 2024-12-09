@@ -15,6 +15,8 @@
 ## 🌟 Proyectos Destacados
 - [Parking App](https://github.com/adrianssanz/TrabajoFinal_ParkingApp): Trabajo final Grado Superior Desarrollo de aplicaciones Web.
 - [Alonsopedia](https://github.com/adrianssanz/Alonsopedia): Aplicación de estadisticas sobre Fernando Alonso.
+- [Juego Serpiente](https://github.com/adrianssanz/serpiente): Tipico juego de la serpiente realizado en JavaScript, desplegado en Github Pages: [Serpiente](https://adrianssanz.github.io/serpiente/).
+- [Generador de Contraseñas](https://github.com/adrianssanz/passwd-generator): Generador de contraseñas realizado en Angular.js, desplegado en Github Pages: [Generador de Contraseñas](https://adrianssanz.github.io/passwd-generator/).
 
 ## 🌐 Idiomas  
 - **Español**: Nativo  
