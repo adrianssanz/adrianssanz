@@ -22,7 +22,7 @@
 - [API Notas Spring](https://github.com/adrianssanz/notasBackend): API Rest de notas en Spring.
 
 ## 👀 Proyecto Actual
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend)](https://github.com/adrianssanz/notasBackend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=dark)](https://github.com/adrianssanz/notasBackend)
 
 ## 🌐 Idiomas  
 - **Español**: Nativo  
