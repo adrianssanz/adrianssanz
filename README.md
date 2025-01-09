@@ -23,6 +23,7 @@
 
 ## 👀 Proyecto Actual
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=dark)](https://github.com/adrianssanz/notasBackend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasFrontend&theme=dark)](https://github.com/adrianssanz/notasFrontend)
 
 ## 🌐 Idiomas  
 - **Español**: Nativo  
