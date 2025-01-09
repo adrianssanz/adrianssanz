@@ -1,4 +1,4 @@
-[![Banner](https://github.com/adrianssanz/adrianssanz/blob/main/banner.png)](https://adrianssanz.github.io/portfolio/)
+[![Banner](https://github.com/adrianssanz/adrianssanz/blob/main/bannerGithub.png)](https://adrianssanz.github.io/portfolio/)
 
 # 👋 Hola, soy Adrián!
 
