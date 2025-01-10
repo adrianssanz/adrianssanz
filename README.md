@@ -1,4 +1,5 @@
 [![Banner](https://github.com/adrianssanz/adrianssanz/blob/main/bannerGithub.png)](https://adrianssanz.github.io/portfolio/)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/adrianssanz/adrianssanz/blob/main/README.en.md)
 
 # 👋 Hola, soy Adrián!
 
