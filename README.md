@@ -4,7 +4,7 @@
 # 👋 Hola, soy Adrián!
 
 ## 🚀 Sobre mí 
-- 💻 **Desarrollador de Aplicaciones Web** con experiencia en Frontend y Backend.
+- 💻 **Desarrollador Full Stack** con experiencia en aplicaciones Web, Frontend y Backend.
 - 🌱 Experiencia practica en desarrollo de aplicaciones tanto web como locales.
 - 📚 Graduado en Grado Superior de desarrollo de aplicaciones Web.
 
