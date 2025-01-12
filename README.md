@@ -20,7 +20,7 @@
 - [Alonsopedia](https://github.com/adrianssanz/Alonsopedia): Aplicación de estadisticas sobre Fernando Alonso.
 - [Juego Serpiente](https://github.com/adrianssanz/serpiente): Tipico juego de la serpiente realizado en JavaScript, desplegado en Github Pages: [Serpiente](https://adrianssanz.github.io/serpiente/).
 - [Generador de Contraseñas](https://github.com/adrianssanz/passwd-generator): Generador de contraseñas realizado en Angular.js, desplegado en Github Pages: [Generador de Contraseñas](https://adrianssanz.github.io/passwd-generator/).
-- [API Notas Spring](https://github.com/adrianssanz/notasBackend): API Rest de notas en Spring.
+- CRUD Notas Spring y Angular.js: CRUD de notas desarrollado en Spring y Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) y [Backend](https://github.com/adrianssanz/notasBackend)
 
 ## 👀 Proyecto Actual
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=dark)](https://github.com/adrianssanz/notasBackend)
