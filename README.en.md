@@ -1,4 +1,4 @@
-<a href="https://github.com/adrianssanz">
+<a href="https://adrianssanz.github.io/portfolio/">
   <picture>
     <!-- Imagen para el modo oscuro -->
     <source media="(prefers-color-scheme: dark)" srcset="./bannerGithubLight.png">
@@ -66,7 +66,7 @@
 - 🌐 Website/portfolio: [https://adrianssanz.github.io/portfolio/](https://adrianssanz.github.io/portfolio/)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanzadrian/)
 
-<p align="center"><a href="https://github.com/adrianssanz">
+<p align="center"><a href="https://adrianssanz.github.io/portfolio/">
   <picture>
     <!-- Imagen para el modo oscuro -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=tokyonight&layout=compact">
