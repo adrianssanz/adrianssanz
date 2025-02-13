@@ -32,7 +32,7 @@
 - [Generador de Contraseñas](https://github.com/adrianssanz/passwd-generator): Generador de contraseñas realizado en Angular.js, desplegado en Github Pages: [Generador de Contraseñas](https://adrianssanz.github.io/passwd-generator/).
 - CRUD Notas Spring y Angular.js: CRUD de notas desarrollado en Spring y Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) y [Backend](https://github.com/adrianssanz/notasBackend)
 
-## 👀 Proyecto Actual
+## 👀 Ultimo Proyecto
 <p align="center">
   <a href="https://github.com/adrianssanz/notasBackend">
   <picture>
