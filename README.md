@@ -31,6 +31,7 @@
 - [Snake Game](https://github.com/adrianssanz/serpiente): Classic snake game made in JavaScript, deployed on GitHub Pages: [Snake Game](https://adrianssanz.github.io/serpiente/).
 - [Password Generator](https://github.com/adrianssanz/passwd-generator): Password generator built with Angular.js, deployed on GitHub Pages: [Password Generator](https://adrianssanz.github.io/passwd-generator/).
 - CRUD Notes with Spring and Angular.js: CRUD application for notes developed with Spring and Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) and [Backend](https://github.com/adrianssanz/notasBackend)
+- [Web Portfolio](https://github.com/adrianssanz/portfolio): Web Portfolio developed in Angular.js, deployed on GitHub Pages: [Web Portfolio](https://adrianssanz.github.io/portfolio/).
 
 ## 👀 Last Project
 <p align="center">

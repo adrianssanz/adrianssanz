@@ -31,6 +31,7 @@
 - [Juego Serpiente](https://github.com/adrianssanz/serpiente): Tipico juego de la serpiente realizado en JavaScript, desplegado en Github Pages: [Serpiente](https://adrianssanz.github.io/serpiente/).
 - [Generador de Contraseñas](https://github.com/adrianssanz/passwd-generator): Generador de contraseñas realizado en Angular.js, desplegado en Github Pages: [Generador de Contraseñas](https://adrianssanz.github.io/passwd-generator/).
 - CRUD Notas Spring y Angular.js: CRUD de notas desarrollado en Spring y Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) y [Backend](https://github.com/adrianssanz/notasBackend)
+- [Portfolio Web](https://github.com/adrianssanz/portfolio): Portfolio Web desarrollado en Angular.js, desplegado en Github Pages: [Portfolio Web](https://adrianssanz.github.io/portfolio/).
 
 ## 👀 Ultimo Proyecto
 <p align="center">
