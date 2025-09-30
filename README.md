@@ -14,6 +14,7 @@
 # 👋 Hi, Im Adrián!
 
 ## 🚀 About Me 
+- 💼 Currently working as **Java Developer at [Globant](https://www.globant.com/)**.
 - 💻 **Full Stack Developer** with experience in Web applications, Frontend and Backend.
 - 🌱 Hands-on experience in developing both web and local applications.
 - 📚 Graduate in Advanced Web Application Development.
