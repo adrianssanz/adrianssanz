@@ -14,6 +14,7 @@
 # 👋 Hola, soy Adrián!
 
 ## 🚀 Sobre mí 
+- 💼 Trabajando actualmente como **Desarrollador Java en [Globant](https://www.globant.com/)**.
 - 💻 **Desarrollador Full Stack** con experiencia en aplicaciones Web, Frontend y Backend.
 - 🌱 Experiencia practica en desarrollo de aplicaciones tanto web como locales.
 - 📚 Graduado en Grado Superior de desarrollo de aplicaciones Web.
