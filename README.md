@@ -34,29 +34,25 @@
 - CRUD Notes with Spring and Angular.js: CRUD application for notes developed with Spring and Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) and [Backend](https://github.com/adrianssanz/notasBackend)
 - [Web Portfolio](https://github.com/adrianssanz/portfolio): Web Portfolio developed in Angular.js, deployed on GitHub Pages: [Web Portfolio](https://adrianssanz.github.io/portfolio/).
 
+<!--
 ## 👀 Last Project
 <p align="center">
   <a href="https://github.com/adrianssanz/notasBackend">
   <picture>
-    <!-- Imagen para el modo oscuro -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=dark">
-    <!-- Imagen para el modo claro -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=default">
-    <!-- Imagen por defecto (si el navegador no soporta prefers-color-scheme) -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasBackend&theme=default" alt="Tarjeta de estadísticas de notasBackend">
   </picture>
 </a>
 <a href="https://github.com/adrianssanz/notasFrontend">
   <picture>
-    <!-- Imagen para el modo oscuro -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasFrontend&theme=dark">
-    <!-- Imagen para el modo claro -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasFrontend&theme=default">
-    <!-- Imagen por defecto (si el navegador no soporta prefers-color-scheme) -->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrianssanz&repo=notasFrontend&theme=default" alt="Tarjeta de estadísticas de notasFrontend">
   </picture>
 </a>
 </p>
+-->
 
 ## 🌐 Languages  
 - **Spanish**: Native  
@@ -68,14 +64,14 @@
 - 🌐 Website/portfolio: [https://adrianssanz.github.io/portfolio/](https://adrianssanz.github.io/portfolio/)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanzadrian/)
 
-<p align="center"><a href="https://adrianssanz.github.io/portfolio/">
+<!--
+<p align="center">
+<a href="https://adrianssanz.github.io/portfolio/">
   <picture>
-    <!-- Imagen para el modo oscuro -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=tokyonight&layout=compact">
-    <!-- Imagen para el modo claro -->
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=default&layout=compact">
-    <!-- Imagen por defecto (si el navegador no soporta prefers-color-scheme) -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=default&layout=compact" alt="Top Lenguajes de adrianssanz">
   </picture>
 </a>
 </p>
+-->
