@@ -34,7 +34,6 @@
 - CRUD Notas Spring y Angular.js: CRUD de notas desarrollado en Spring y Angular.js. [Frontend](https://github.com/adrianssanz/notasFrontend) y [Backend](https://github.com/adrianssanz/notasBackend)
 - [Portfolio Web](https://github.com/adrianssanz/portfolio): Portfolio Web desarrollado en Angular.js, desplegado en Github Pages: [Portfolio Web](https://adrianssanz.github.io/portfolio/).
 
-<!--
 ## 👀 Ultimo Proyecto
 <p align="center">
   <a href="https://github.com/adrianssanz/notasBackend">
@@ -52,7 +51,6 @@
   </picture>
 </a>
 </p>
--->
 
 ## 🌐 Idiomas  
 - **Español**: Nativo  
@@ -63,7 +61,6 @@
 - 🌐 Sitio web/portafolio: [https://adrianssanz.github.io/portfolio/](https://adrianssanz.github.io/portfolio/)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sanzadrian/)
 
-<!--
 <p align="center"><a href="https://adrianssanz.github.io/portfolio/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianssanz&langs_count=10&theme=tokyonight&layout=compact">
@@ -72,7 +69,6 @@
   </picture>
 </a>
 </p>
--->
 
 
 
